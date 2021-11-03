@@ -1,0 +1,1 @@
+const persona={template:`<h1 class="d-flex justify-content-center" >This is Persona</h1>`}
